@@ -1,0 +1,610 @@
+local book = {
+	title = "Adelia's Journal, 272 AG",
+	contents = [[September 15th
+
+Today, in order to collect research for my thesis, I spent the day at the archives. As usual, the journey was dreadful; all of the chirobasts had seemingly broken down. This lead to me having to walk the whole distance, which with the constant commotion of Central was nauseating to say the least. You’d think that the ‘Great City of Sorcery’ would be able to produce a mode of transport that didn’t break down half of the time, but that’s probably asking too much.
+
+Finally reaching the archives (perhaps with a few years shaved off of my life for the ordeal alone), I headed to the front desk, where I handed over my documents. A few moments passed, and the librarian gave me a scathing look. It felt as if they were trying to imply via eyeballing that I wasn’t as welcome as my documents suggested. Spending no more time with grumpy clerks, I climbed up the endless flights of stairs. Three stops for rest and tripping over two steps later, I came across the restricted archive, where another librarian prompted me for my documents. However, this time, not only did I receive a foul look, but I was also told that my documents did not provide me access to the archive within.
+This, of course, was complete nonsense; my scholarship at the academy provided me with the necessary access rights to almost all levels of the archives. Upon disputing this, he remarked that due to recent changes in the security protocols of the archives, I would need additional documentation in order to gain access. Either the archives are scared stiff of the recent, and indeed distant, unrest in the Lower Ring, or more than likely they are up to their usual stuffy arrogance.
+
+As such, I wound up spending the evening revising over my notes for the umpteenth time. The neighbours were arguing again. It seems to have gotten worse in recent weeks, but I suppose it’s not my place to pass judgement on them.
+/p
+October 18th
+
+The supplies for my magical research ran out, so I made way to the Median Ring to acquire some from Lu’s Provisions as I usually do. Browsing through, I found the items I was looking for and headed to the till. We made small talk, but no information of note was exchanged. I made for the door, and it was at this point that I saw a grey shape launched through the window, clattering onto the floor a few metres to my left. If my glasses weren't left on, I’d be dead. Casting a spell of acceleration, I managed to escape the blast of the explosion. As the inferno ripped through the storefront, I made haste to the side exit, filing out into the alley.
+
+I made it home intact, but I fear that Lu never left that shop.
+
+The unrest of the labourers has risen to a cacophony. The King insists that the rebellion will not continue for long.
+
+It has been several weeks since the Lower Ring was seized by the rebels. I worry for Andreas. Mother says she hasn’t received any word from him since September.
+/p
+October 29th
+
+I arrived at the dormitory today. The university paid for all of the travel expenses, and a chirobast was ready for me outside my front door. I’m not sure whether to be excited or dreadful at this point. Whilst the little girl in me is full of awe at the notion of having a hired escort sent to my doorstep, the adult in me realises that the College are desperately in need of staff to keep it in operation.
+
+My room is a bit poky, and the sheets still smell of peroxide, as if they were bleached thoroughly this very morning. I wonder if I can fall asleep holding my nose? We shall have to see.
+
+Now that I’m closer to the archives, I have easier access and should be able to expedite my thesis. I haven’t quite thought of a name for it yet, but I’m working on it. Naming things has never been my speciality; it’s difficult to abstract a huge mass of information into a few small words.
+
+I shall stop attending this journal for now, as I have to hold my nose and get some sleep.
+/p
+November 8th
+
+I’m still having difficulty believing this, but the leader of the rebels, Maitintis, was captured today, alongside some of the most instrumental members of the rebellion.
+
+He’s being placed on trial tomorrow morning in public. I’m not sure I agree with the spectacle, but I’m elated that this ordeal might finally be resolved.
+
+Perhaps this sequence of events might force change in the hierarchy of our society without leading to the demise of we in the upper classes. I had believed that the labourers deserved elevation in society, but I felt the rebellion did not seek to level the playing field, but rather to eliminate one side of it entirely.
+
+Can that be really said to be just? Part of me would like to sit down with Maitintis to understand what drove him to these extremes.
+/p
+November 9th
+
+The public trial, or perhaps better deemed ‘execution’, took a turn for calamity.
+
+The unspeakable force of the Leviathans that once laid claim over our King now deigns the rebels its charges. How this came to occur, I do not know, but the inferno still is spreading.
+
+The archives, the cultivated research and experience of years upon years of scholars, have burnt down in the space of a day. I don’t know how to respond to this. My father’s work. His mother’s work. All cinders now.
+
+I had woken up early for a morning stroll, and not with a moment to spare, either. I have now learnt that just a few dozen minutes after I had left the dorm, it had been seized. Almost immediately after leaving the premises, my eyes caught a fleeing professor whom I was familiar with. Catching up, the information I have transcribed to this journal was relayed to me.
+
+The professor told me of a ship ready in the harbour that had been prepared to set sail for a research expedition this afternoon. There was still space for a few more passengers.
+
+We made haste to the ship, and I write this journal below the decks of the vessel. We are headed to the Valley, where many of we Tsorians are said to have fled since the events this morning. I pray that no further calamity strike on our journey.
+
+I have decided to title my thesis “Ethics of the Sorcerer”.]],
+	rarity = 3,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "Call of the Valley",
+    contents = [[When I read those tales for the first time... No, I suppose it wouldn’t be correct to continue referring to them as tales.
+
+When I first read of those... accounts, I thought them to be foolishness. Mere conjecture of what wonders magecraft could one day do given more study, perhaps a mage dreaming of the potential hidden with his arts, the ramblings of a visionary.
+
+It was neither, and I blame myself for the naïveté of thinking it to be so. As these histories state, Tsor has always been ruled by mere dozens or even handfuls at times from the very beginning: the so-called elite among the elites. 
+
+But how could a mere percent of a fraction upon a fraction quell the rest so easily? The most masterful intrigue wouldn’t have prevented a revolt for ten years much less hundreds in conditions much better than what we have endured.
+
+I should have seen it, linked it together, puzzled it out sooner. Those legends did not die, but merely slept, and now they stir awake.
+
+I quote this from memory, before I burned those archives in the hopes that another like-ideology should not arise from what I thought to be fiction. 'Battles not decided by how hard men fought or how deviously commanders schemed, but rather, how adept their mages were.' 
+
+They already begin to dominate the battlefield once again, calling down fire and lightning upon their enemies like those wizened storybook wizards of old. 
+
+Khei will remember ruin, landscapes demolished and cities razed to the ground with these ancient powers wielded by those who should not.
+
+Our time draws near.
+- The Archbishop
+Recorded and transcribed by Redcoat Jan
+306 AG, Winter]],
+    rarity = 2,
+}
+
+return book
+
+-- ...
+
+local book = {
+	title = "The Craftsman who Bore Stars",
+	contents = [[Long ago, while man remained in its youth, there was a hardworking craftsman who did love his work. So devoted and tireless about his work was he, that he gained the attention of a lady, to whom at first, he paid no mind. She asked him to craft the finest necklace in all the land, and she said she would pay him heartily for his work if it was done in seven days.
+
+The first day of his work did go unhindered, as he smelted the finest ore to hold the finest stones.
+
+The second day of his work, this lady once again laid her eyes upon him, however this time, the craftsman noticed she wore a shroud of dark and her eyes lit up like pale moonlight. When he saw her smile, he felt as though a weight was upon his shoulders.
+
+The third day of his work he dug into the deepest earth, to pull out jewels which shone like falling stars within the sky. The lady felt something stir deep within her core. And beneath her breath, the words “Mirtingasis neturėtų versti mane taip jaustis” did spill forth. Alas, the ears of man could not yet interpret such words.
+
+The fourth day of his work, he began to tire, and so the shrouded lady invited the man to come and rest with his head upon her lap. Denying such a privilege, he continued to push himself through his work regardless of how he felt. Slowly, the shrouded lady fell to her knees and cried, to try and get him to stop his work, to no avail. The lady had never met a man with willpower as strong as diamond, and she was frightened and intrigued. No man had ever denied her charms, for she was beyond such mortals.
+
+The fifth day, the craftsman offered to show her his work, knowing that she was interested in seeing the detail he put into his work. Seeing the jewels and chain he had formed, she remained silent, as even she had never seen something so beautiful in the entirety of her existence. The craftsman then saw her facial expression and took that as a sign of dissatisfaction and rushed her out of his workshop to begin again.
+
+The sixth day, the craftsman had forgotten even to tend to his hunger and thirst; he had pushed his body to the limits of famine, all to stay true to his word. The shrouded lady took notice of this, and felt a deep sadness well up inside her, and again she offered him rest, only to be denied once again.
+
+The seventh day rolled around, and the craftsman did not present the lady his work. Treading into his workshop, the lady let out a scream which could’ve woken the leviathans from their deep slumber. In his long labours, the craftsman had perished from exhaustion working on the necklace the lady had so selfishly desired. Crying over the body of the craftsman, she took the necklace and fled into the sky, refusing to be seen again. It is said that if you look to the sky, you can see the jewels the craftsman had gathered shine as bright as the moon within the darkness, and it is said that when you look closely, when the moon is half waxed, a small tear will drop unto the surface of Khei, to represent the sadness of her deceased lover.]],
+	rarity = 2,
+}
+
+return book
+
+-- ...
+
+
+local book = {
+    title = "Extended Study of Weather",
+    contents = [[It doesn’t make any sense.
+
+The statement above succinctly sums up what three other researchers and I can make of the forecast patterns of the Valley. 
+
+Four esteemed academics focused primarily on the study of weather, we’ve nailed it down to an art, capable of accurately predicting storms days away, created a precise map of wind currents for seafaring and trade, and among us is the very one who established the degree system.
+
+Of course we were interested when we were invited by the Grand Archive to see what we could make of it within the Valley. I am ashamed to admit it, but I am truly stumped as to this. 
+
+We did expect this strange proximity of climates and therefore temperatures to inevitably lead to aberrant wind patterns and thus predicted a rapidly changing amalgamation of forecasts, but surely this is beyond reason. 
+
+A scorching heatwave upwards of fifty degrees only a small three thousand paces away from a raging blizzard in the negatives, only to switch and switch again in the span of two months? Absurd. 
+
+It feels as though we know less than when we started, months spent observing and recording the direction and magnitude of the wind in several of the areas amounting to little new knowledge.
+
+However, there is but one theory we can extrapolate from the numbers. Though it may seem insignificant, we believe that the temperatures are caused by the biomes, rather than the temperature resulting in the biomes. A small distinction, but simply put: it is unnatural.
+/p
+There are more forces alurk than simple nature within the Valley; of this, we are certain.
+
+- An Excerpt from the research paper
+'Extended study on the weather and 
+weather patterns of the Great Valley: a controlled, 
+number-based compendium and conclusion']],
+    rarity = 1,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "The Folly of Kerstas",
+    contents = [[It is said that during the events of Godfall, the God known as Dienis had been struck down by a mere mortal, and had subsequently entered a gluttonous frenzy. Seeing no longer friend nor foe, Dienis only sought to consume and become supreme. Such a rage would normally call forth the retributive justice of Teisumas, but with his demise some two hundred years prior, Dienis was free to rampage.
+
+However, this reckless fury had called forth the attention of Kerstas, the God of Wrath. Though opposed to the ideals of Teisumas, he still saw fit to deliver retribution upon the lustful Sun. With the visage of Death itself, Wrath challenged Dienis to a fight to the death.
+
+The pair stood opposed in a lush field untended by human view, and their fight began. The conflict dragged on for moons, and it is said that the lush field was reduced to a barren and ashen desert from the sheer toll of the conflict. Alas, as the Moon renewed for a fifth time, Dienis found his power waning. Wrath tipped the scales and drove Dienis to his knees, poised ready to destroy the Sun.
+
+But as Kerstas held his dominance over Dienis, his honourable streak shone; he offered the Sun the time to utter his last words. It was in this folly that Kerstas had given his own last words; in one last fit of rage, as the Sun haggardly cut its light across the sky, so too did Dienis cut Wrath down.
+
+As the bringer of vengeance lay prone, Dienis tore the God’s flesh asunder and began to devour, seeking to steal his power.
+
+Still clinging onto life, Kerstas’s curses and maledictions rang out long into the early dawn. And lo, as the Sun reached its noon, so too did its God gain the strength he so craved.]],
+    rarity = 3,
+}
+
+return book
+
+-- ...
+
+local book = {
+	title = "The Golem Prince",
+	contents = [[In the beginning, the leviathan Dirvas, was the only true beast of the earth, he scoured the lands, searching for his brothers and sisters, or things like him. In the end, he found none, and became lonely. To end his suffering, he created the golems, children unto him who were made of the same stone, and the same earth as he. 
+
+The golems were his, and his alone, but they possessed no life, no humanity, no free will. To him they were but figures to reflect his shallow but whole control upon the deep places of the earth and its crust. He reflected upon his creations in anguish, for he was still alone, and they were only extensions of him.
+
+That is until the creation of Seimaitis, this golem was no different from any of those before him, and it is unknown how he gained the ability to speak, think, and feel freely. It is said that even to this day, Dirvas knows not what possessed his only son. Dirvas looked upon his creation with his eyes wild and full of joy. "Miegantis princas dar kartą pabudęs" were the only words spoken in the land of caverns and stone that day. It was a mighty echo within the tombs of the earth, which was Dirvas’s kingdom.
+
+One day, Seimaitis was upon the edge of his father's kingdom, when he heard an unusual noise before him, bursting through the ground like a newborn child, he saw something he had never seen in the entirety of his years. A human being. Primitive as they were, he felt a special connection with these creatures, for he, like they, possessed a mind of their own, the ability to judge. It was this day he realized that he was not like his brothers, that he shared more in common with these fleshlings, rather than his own family. Like all curious creatures, he began to watch.
+
+The humans didn’t know what to think when they first discovered Seimaitis, they believed he was some sort of monster intent on devouring them. In reality, Seimaitis stood as their protector, as a silent guardian. It was in his years of watching mankind develop, that he became friends with a small boy, whose name has been lost to time. For time is uncaring, unforgiving, and cruel. Seimaitis had learned this lesson the hard way, as while he stayed in his shell, feeling none of the cruel effects of time, his friend, the boy was not so lucky. 
+
+While they could only communicate through symbols, Seimaitis knew that his friend’s time was near. Dirvas soon discovered where his prized son had been sneaking off to, in his rage, he caused tremors and earthquakes to rile the ocean. Soon, a massive wave the size of which Seimaitis knew only his father would have conjured, began crashing against the shores of the valley. The village of the boy was in grave peril, and Seimaitis knew it. Pulling himself from within the rooted earth, he began to trudge over to the natural arch of rock that served as a natural entrance to the village. Drawing a few unknown symbols to the now old man he whose company he enjoyed so dearly. Seimaitis, let out a cry that was heard throughout all the places of the world, all the animals, the people, and his father had heard this cry of contempt and betrayal. Seimaitis, looked back at the old man once more before placing his large arms upon both sides of the pass, he began to widen and change, to fit the gap the pass had so eagerly left wide. It was with this last act of compassion, towards humanity that ended Seimaitis’s life. 
+
+When Dirvas peered from his domain in the earth, he saw humanity alive and strong, and that his most prized son, was nowhere to be seen. It was only upon closer inspection that Dirvas noticed the sin he had committed, in his anger… he destroyed the very son he held so dear. Immense sadness crushing his very soul, Dirvas burrowed deep into the core of Khei. It is said that Dirvas refuses to return to the surface, as he is reminded of his terrible failure.]],
+	rarity = 2,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "A Book of Good Cookery",
+    contents = [[Sambocade
+
+Take and make a crust in a trap, and then take out the curds and wring out the whey. Pass the whey through a strainer and put it into the pie shell. Add a third of a cup of sugar, a portion of egg whites, and dried elderflowers. Bake these with rosewater, and mess forth.
+/p
+Rice of Broth
+
+Take rice, washed and drained, and place it into an earthen pot with broth and bring it to a boil, letting it cook well. Afterwards take almond milk and colour it with saffron and salt, and mess forth.
+/p
+Dauce Egre
+
+Take luces, tenches, or fresh haddock. Boil them and fry them in olive oil. Then take vinegar, a third of a cup of sugar, and some small minced onions. Boil these all together, and add maces, cloves, and cubebs. Lay the fish in dishes, and pour the sauce on top, and serve it thus.
+/p
+Makerouns
+
+Take and make a thin foil of dough, cut it into pieces, and cast it into boiling water and let it cook well. Take grated cheese, melted butter, and cast it beneath and above as layers, and serve it thus.]],
+    rarity = 1,
+}
+
+return book
+
+-- ...
+
+local book = {
+	title = "Man & Soul",
+	contents = [[Man, amongst the beasts of Khei, is unique in that it is born with a soul. Some animals with a large degree of intelligence can develop souls as their years drag on, but none are so bountiful as that of Man. In some ways, the soul can be said to be the arcane representation of one's consciousness and personality. Furthermore, every being with a soul will also have a 'true' name - a name that refers specifically to their soul.
+
+Souls themselves are a dense ball of mana with a core and a shell. The shell can be manipulated and harnessed as spells, and the shell of one's soul will regenerate over time as their soul draws on the background mana in their environment. The core cannot usually be manipulated without significant risk to the user. Those who delve into the deepest recesses of their soul will never surface the same they were before.
+
+Some academic sources suggest that one's personality might have some bearing on their favoured form of magic, but contemporary analysis suggests that these sources may just be confirmation bias in action. Regardless, a mage is likely to choose a form of magic that suits their aspirations; a mage who specialises in flames will no doubt have a destructive personality.
+
+One definite link, however, is that between emotions of a negative nature and the Unknown. It is said that by giving into emotions of instinct - such as rage, fear, and woe - the Unknown will manifest in some small sum within one's soul. Though it is forbidden by most institutions, drawing upon this manifestation can draw corruption into one's soul. Through this corruption, the raw power of the Unknown can be called upon.
+
+The more they draw on this corruption, the more the mana within their soul depletes; eventually, the mana that brought them consciousness, personality, and wisdom is eradicated. All that remains is a twisted beast, subservient only to its instincts. No longer human, it is these beasts that those known as pilgrim knights hunt.
+
+In contrast to corruption is purity; by bringing forth positive emotions and drawing upon them, one can prevent one's soul from becoming corrupted. It is this purity of the soul that pilgrim knights wield in battle, as it shields them from the unyielding grasp of the Unknown. However, the means to purify one's soul are not as easy to come by, and will often require great corporeal sacrifice. Often, tales of pilgrim knights denote them as bereft of their original form; a worldly price for a spiritual boon.
+
+Gods and Leviathans are also beings with souls, with their own distinctions. Gods are collections of mana dense enough to form a great soul, and Leviathans are concepts strong enough to bring forth mana in their wake.
+
+Like all mana, the mana of souls comes from the Source. As Men may reproduce and bestow their offspring with souls, this draws on the Source greatly. Though their population was once limited, advances in culture and technology have brought about a surge in their numbers. Though Gods could once reform some time after their death, with such an abundancy of humans there simply isn't enough to bring them back once again. This newfound mortality brought fear to Gods for the first time, and as a result Godfall was inevitable.
+
+- An Excerpt from the book
+'Man & Soul: An Insight into the Constitution of One's Being']],
+	rarity = 2,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "Musings of Mad Hari",
+    contents = [[An entire town, gone. Vanished, as though it were never there. Not merely physically, none seem to remember it. 
+
+The former inhabitants all think me insane, yet can come up with no reason why they were there doing ‘...something’ in the middle of the desert, and take to those new ruins as though it was ever their home. 
+
+It was not, yet they seemed genuinely confused upon seeing that cave-ruins in appropriately ruin-like condition: in shambles and wholly unfurnished. 
+
+But I digress, a more pressing concern is how it happened in the first place: the complete erasure of an entire town and an oasis large enough to be considered a lake, as well as the memories of hundreds visibly tampered with.
+
+As far as I can tell, only I remain to record this event. A simple scholar, perhaps with a mind keener than most, but I can think of no reason in particular that would exempt me from this affliction, yet not my academic companions. 
+
+Though they do not remember, I can tell their instincts scream at them that something is off. I can practically see their trepidation leaking through the cracks in their facades of cold logic.
+
+I am not going insane.
+
+...Surely?
+
+- Archivist Hari, 320 AG, Autumn
+A scholar of some renown, 
+for his observations of the Valley, 
+gone mad in his last days]],
+    rarity = 2,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "Ode to the Dwindling Hope",
+    contents = [[The world has lost its crowned head -
+Narsa lies slain, her body dead.
+Now struggles Laun to fight the dark -
+The shadows come, so cold and stark.
+
+Gudriba fell, his powers gave
+To Laun, which now becomes a slave
+To fate his own. He meets his doom:
+Unknown shall soon us all consume.
+
+Tenebrous shadows closer come:
+To others fear, a feast to some.
+Fear not the dark, rely on hope -
+It is the only way to cope
+With what has happened to this land,
+Now tiny speck, once empire grand.
+
+- Scholar Arath, 298 AG
+]],
+    rarity = 3,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "On the Plight of Magic & Men",
+    contents = [[To say that men of the valley have tamed mana or harnessed it to their will is akin to saying that a pet wolf would never bite. Mana is of the Gods' time, and even then their extinction is testimony to the harm that magic can do when it goes to the head of even the most sweet-willed of Valley folk.
+
+The world spells, being relatively harmless, are symbols of status only in that a man may be well travelled in the Valley- or perhaps some braver allies took pity on him, for their location as yet is common knowledge.
+
+I believe that this magic is of a different category to its stronger, rarer counterpart. With the right scroll, or bestowal, a man may gain the power to deceive and prey on other Valley folk. The gasps of awe that the rarer spells will extract from a man only holding world spells can make his use of rare magic haphazard- and, should this magic fall into the wrong hands, it has the power to tear apart factions and cause terrible destruction. Allowing this natural desire to impress and boast to rule one's head is well known to drive men insane and twisted.
+
+True mages and sorcerers of the valley should be of a calm disposition with a constant underlying knowledge of the power of their magic, and a respect for that, too. Not a fear, however, for if a man is weak in the face of their magic they may never truly work with it. Perhaps one of the most important qualities in an avid and well read user of magic is that they must have a desire to do good in the Valley, or at the very least they must be fair and not easily angered by small quibbles amongst the Valley folk.
+
+Last, but by no means least, even the steadiest and most worthy Scrollmaster knows that this magic doesn't belong to him- or to anyone. We are but custodians to the spells we possess, all magic is borrowed from the Source and it can be taken as readily as it was given.
+    ]],
+    rarity = 1,
+}
+
+return book
+
+-- ...
+
+local book = {
+    title = "Rauda Dievams",
+    contents = [[Prieš daugel metų, amžius amžiniausius,
+Įvyko mušių daug, kuo kruviniausių.
+Prieš daugel metų kūrėsi Dievybės -
+Visatoj nematyta jų didybė.
+
+Tačiau po daugel erų baigės kovos,
+Ir prasidėjo hegemonija dievų.
+Jie valdė išdidžiai, tarytum povai.
+Bet prasidėjo vėl iš naujo daug kovų.
+
+Dievai mirties išmoko pribijoti,
+Kai žmonija išmoko kautis ir riaumoti.
+Dievų dvasia mirtinga kai patapo,
+Atgal nebuvo kel' iš šio etapo.
+
+Salyne Raulo vieną Saulės dieną,
+Vijokliai kai kiekvieną vijo sieną,
+Štai gimė Launas - princas būsimasis,
+Dievus apgavęs, išgama tikrasis.
+
+Dievai pasaulį valdė pagal valią,
+Turėję iš Narsos paveldėt galią.
+Tačiau tamsus šešėlis griebė Narsą,
+Uždarė visamžiui jai juodą karstą.
+
+O Launas, tas bjaurybė išdidusis,
+Nedarė nieko, išgama bjaurusis.
+Jis leido jai gilioj kančioj numirti,
+Pagalbos nedavė, ir nedavė jai kirčio.
+
+Pasiglemžė jis galią amžinybės,
+Dievų gi jėgą. Ji- tai galimybė
+Patapt galingu ir pačiam klestėti,
+O rankose žmogaus ji greit pradės merdėti!
+
+Norėjo sužinoti Launas, kokią galią
+Jėga ši turi visai Slėnio šaliai.
+Jis nežinojo, ka dievybės geba.
+Vien apie tai pamąsčius mūsų rankos dreba!
+
+Į Slėnį nukeliavęs susitiko
+Teisumo ainį, Jėgą, kur nukrito -
+Teisumo dukteriai ir sūnui susigulus
+Jų sielos abiejų aršiai pražuvo.
+
+Jėga galingas buvo, ir be galo -
+Sienas į dvi stiprybė jo padalo!
+Bjaurybė Launas sau žinių ieškojo,
+Tik rankom trynė, ir kai ką sumojo -
+Ieškos žinių jis su Teisumo sėkla,
+Ko nežinojo netgi Narsos šmėkla.
+
+Pabaisa Launas veržės pas Gudrybę,
+Pareikalavo jo žinių gėrybių.
+O šiajam atsisakius pasiduoti,
+Nusprendė jį iš kūno išvaduoti -
+Į gabalus sudraskė didį dievą,
+Jo likučius išbarstė jis po pievą.
+Jėga jo kaulus sumalė į košę,
+O Launas tik įniršęs orą košė.
+
+Pasaulis apsivertęs ir sutemęs,
+Net nebežinom, kuo dabar jis remias...
+Dievai jau žlugę, likome mes Slėny,
+O Nežinia lauks mūsų jau šešėly...
+
+- Raštvedys Aitvaras, 158 AG
+]],
+    rarity = 3,
+}
+
+return book
+
+-- ...
+
+--------------------
+Sorry for being lazy hopefully you can understand it all through this fucked up formatting, but here's a couple more especially a translation:
+
+Rauda Dievams
+(Official literal translation by Naktigonis, original in Lithuanian)
+
+many years ago, before the most eternal ages
+many battles took place, the most bloody.
+many years ago the deities took shape -
+their greatness unseen before in the universe.
+
+and yet, after many eras the quarrels ceased,
+and the hegemony of the gods began.
+they ruled proudly, alike peacocks,
+but once more their many battles were reignited.
+
+the gods learned to fear death
+when mankind learned to fight and roar,
+when the souls of gods became mortal,
+no more there was returning from this stage.
+
+on the islands of Raull on a sunny day
+when vines twined along every wall,
+yonder Laun was born - the prince-to-be,
+he who tricked the gods, the truest scum.
+
+the gods ruled the world according to their will,
+as they were meant to inherit force from Narsa.
+and yet, Narsa was grabbed by a tenebrous shadow,
+and its blackened tomb for an eternity was shut.
+
+and Laun, that proud unworthy one,
+did nothing, the horrible scoundrel.
+he let Narsa die in deep misery,
+granted her no aid, nor the final blow.
+
+he stole the force of eternity,
+the power of the gods. it is the opportunity
+to turn powerful and prosper by yourself,
+and in the hands of man such power soon shall perish!
+
+Laun wanted to find out what power
+this force has over the lands of the Valley.
+he knew not what the deities could perform.
+the very thought of this  alone makes our hands shake!
+
+in his journey to the Valley, he met
+the heir of Teisumas, Jega, which had fallen -
+when the daughter and son of Teisumas consummated,
+their souls both perished fiercely.
+
+Jega was powerful, and boundlessly so  -
+his strength splits walls into two!
+the dreadful Laun went to seek knowledge for himself,
+he rubbed his hands and thought of something -
+he shall seek knowledge alongside the seed of Teisumas,
+to find out what even the ghost of Narsa knew not.
+
+the monster Laun forced his way to Gudriba,
+and demanded her bounty of knowledge.
+and when Gudriba refused to surrender,
+Laun decided to free him from his body -
+to pieces they tore the great god,
+his remnants scattered in the meadow.
+Jega their bones ground into a porridge,
+and Laun furiously hissed.
+
+the world is upside down and darkened,
+and we know not what now it stands...
+the gods have fallen, in the Valley we remain,
+and the Unknown now shall await for us in the shadows..
+
+20-11-2017
+Naktigonis
+
+-- ...
+
+A Tattered Diary, 43 AG
+(Official translation by Naktigonis, original in Lithuanian)
+
+THE FIRST DAY - THURSDAY - FOURTH OF LEAF FALL [NOVEMBER], THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin, tired of slavery to uncertainty, exhausted from the vigilant glares of death upon our souls, longing for the pure grace and love of the Gods, dared assemble for a singular purpose - to destroy the Unknown, force its restless waves to ebb, and, with providence of the Gods, to restore order in the great wide world. May Narsa, her name be blessed, light us the way towards victory.
+
+On a Thursday we six, masking ourselves with names not given to us at birth, began our difficult work, which will demand its toll of time. We - Artminas (Nearmention), Girgaudas (Groverumble), Sarmateia, Baltvydis (Whitesight), Tolgrindis (Farpave) and Me, Yoras, - abandoned our native homes, supplied with patience and also weapons. We took everything with us in small parcels - water in mere flasks, bread in singular slices, and Baltvydis, an old greyhaired friend, also brought some herb brew in a jug - allegedly it "shrinks wounds well". He is a man of simple, yet true words, thus I trust him. We wished not to encumber ourselves much, as our journey is to be kept secret. By rattling through the Valley covered in all sorts of supplies we'll only attract attention - and therein are such scum that worship the Unknown. Narsa is turning in its grave! But should they attack us, the bastards, we'll fight 'til the last drop of blood. Thus we begin our journey... 
+
+_________________________________________
+
+FOURTH DAY - SUNDAY - SEVENTH OF LEAF FALL, THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin, the blessèd champions of Narsa, have run into our first difficulties on the road. The crazed scum! Before the Shattered Pass, that ice-wrought realm, we were attacked by a band of evildoers, their souls be cursed! We're only lucky that Baltvydis, our wiseman, felt the disaster coming, and noticed the ambush. In the snows these brigands were hiding, and we cut them up with swords and daggers with little trouble, as soon as they attacked us. Let them know whom they're dealing with!
+
+The frost is getting to us singularly. Artminas, disliking such weather, is shivering for the second day. The last several snowstorms did not do him much good - he began coughing hollowly, and the mountain air is rare. Sarmateia gave him some sort of herbs. Perhaps they'll help. She and Baltvydis know much.
+
+In the name of Narsa, we shall journey onwards.
+
+_________________________________________
+
+SEVENTH DAY - WEDNESDAY - TENTH OF LEAF FALL, THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin, feel further concern. Something unholy permeates the air. This has been going on for long now - ever since Narsa vanished and the Gods perished. Baltvydis was still young then! After Godfall, the stench of death has lingered in the air. People began losing their sense and sanity, falling like the autumn leaves...
+
+But now still these curses linger in the air, and fill the lungs. And we are concerned, for the closer we get to our destination, the more the stench of the Unknown curls our noses. At least we know that we are headed towards the right place.
+
+But we shall not surrender to the Unknown. After all, our purpose is to defeat it!
+Artminas is not getting better - the cold air of the Crossing must have hit him hard. He shudders and twitches. Sarmateia fears that we'll have to stop. I'd be afraid of that too - the vast Prairie has nowhere to shelter us for now. We'll be like sitting ducks, only to be shot by someone. And we ourselves have no arrows, only daggers and swords.
+
+A long road awaits us in the Prairie. We shall push onwards, and pray to the Gods, may in their afterlife they hear our prayers, to heal Artminas.
+
+In the name of Narsa, we shall journey onwards.
+
+_________________________________________
+
+EIGHTH DAY - THURSDAY - ELEVENTH OF LEAF FALL, THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin, have lost our first warrior. At night, when we stopped at the edges, Artminas, previously having shivered the whole day, went mad in his own bedsheets. He began shaking unlike himself, foaming from the mouth, blood pouring from his eyes, nose and ears... Not Baltvydis, neither Sarmateia could do anything this fast. The occurrence was finished in half a minute.
+
+At midnight we and Naktis, the goddess of the Moon and the Lady of the Dark Skies, hallowed be Her name, mourned our fallen comrade. May they who hear of his sacrifice know that Artminas, by his true name Eigaudas, laid his head for a noble cause. 
+
+Having buried him quietly, we shall onwards march. Sarmateia is starting to feel unwell. Tolgrindis, already having been silent for the entire journey, a marcher and not a talker, is now even more grim. I myself am taken by sorrow - Eigaudas was like a brother to me. Girgaudas keeps murmuring something, his nerve seems to be breaking. I think I saw him twitching. Must've been sobbing... Only Baltvydis remains the most stoic of us all.
+
+Death stalks in the shadows. In the name of Narsa, we shall journey onwards.
+
+_________________________________________
+
+TENTH DAY - SATURDAY - THIRTEENTH OF LEAF FALL, THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin, suffer further. Crossing the Prairie, almost reaching its end, we were attacked - but not by bandits. Servants of the shadows, scum of the Unknown, well-armed attacked us. Cursed darkness! We fought bravely, like true champions of Narsa. But two of us bravely met Death, travelling to the afterlife. Girgaudas, by true name Visgirdas, and Tolgrindis, by true name Tulminas, were claimed by servants of the Unknown.
+
+Their sacrifice will be in our memory forever. May the Gods have mercy on them. Rest in peace.
+
+Of us six, three remain - Me, Baltvydis and Sarmateia. A Brave company of the Valley's kin. We shall spill our blood 'til the Unknown and its servants perish!
+
+In the name of Narsa, we shall journey onwards.
+
+_________________________________________
+
+TWELFTH DAY - WEDNESDAY - SIXTEENTH OF LEAF FALL, THREE AND FORTY YEARS AFTER THE GODS
+
+We, the Six, a Brave company of the Valley's kin... near our destination. It is getting hard to write... to think... Arms are getting heavier, my head feels like it is filled with hot water... The heart beats wrathfully, my veins pulsate...
+
+The weather feels stuffy, though Siel's peninsula is cool... Here the Sea whispers to me dark thoughts... But I must hold fast. For the Valley, and the memory of my comrades...
+
+It seems we all are weakening, save for Baltvydis. He leads the way energetically... but angrily... he glares at us, and he lashed out cursing at Sarmateia once she stumbled... Baltvydis is unwell, though differently than us.
+
+Baltvydis dashed through the small Siel's peninsula... Found some place, like a dog smelling a ham... 'A well', he says...
+
+Sarmateia fears to go onward. I begin to fear as well, but even more, I begin to turn angry... at Baltvydis... Old geezer... It was his idea to travel here... Malevolent bastard...
+
+I'm beginning to hear a hushed/husky voice of a woman from somewhere. It calls for me... It calls for us all...
+
+In the name of Narsa... we shall journey...
+
+_________________________________________
+
+I write in a hurry. We stopped by the 'well' for the night. My strength is as if returned temporarily to me now, perhaps from the nervousness. Sarmateia is gone, only a bloodstain left upon her sheets. Next to that, Baltvydis' dagger. What happened? Were we attacked? I saw how Baltvydis, with messy hair, in torn clothes (now tattered rags) dove into that well. I hear him laughing. I hear a woman's voice. Sarmateia must be there.
+
+My hands shake, my heart beats like crazy, my veins are on fire, my head is splitting in half...
+
+In the name of Narsa... may the Gods help us.
+
+_________________________________________
+
+Our company is doomed. I'm doomed. We are all dead already.
+
+I went down the well. There was a cave down there. Baltvydis stood before a statue with boney fingers. Chucked something over his shoulders. All bloodied, twisted, twitching. Glowing purple. Then I saw her.
+
+Sarmateia. He killed her, that scum... And he laughed the entire time. Though now he began to growl.
+
+I drew my blade. Led by Narsa... He threw Sarmateia aside, and began dashing towards me, screaming something. I stabbed him...
+
+What scum am I! Blinded by a purple rage, I stabbed at his body many times, 'til my blade sunk into his torso to the hilt, and I was covered in his blood. And he was like a real father to me... Sarmateia... Poor Sarmateia...
+
+Let the Valley and the world know, that Baltvydis, by true name Sanginas, having lost his sanity, turning from the Gods, in cold blood murdered Sarmateia, by true name Mirta, a once-loved pure-hearted comrade. Rest in peace, may the Gods have mercy on your souls.
+
+Regaining my senses after the confrontation, I begin to weaken... weaken... I see a silhouette lurking in the shadows... she's covered herself with her scarf mysteriously, turned away... she whispers to me... closer...
+
+the hand... rises towards the dagger... she whispers...
+
+dagger... body. dagger. body. dagger.
+
+
+
+[author’s note: and the rest of this which i won't replicate as it is scrawlings on the page. here's the words:
+durklas = dagger
+kūnas = body
+žaizda = wound
+ji artėja = she comes]
+
+26-10-2018
+Naktigonis
+
+-- ...
+
+Ode to Dwindling Hope
+(Original English contribution by Naktigonis)
+
+The world has lost its crownèd head -
+Narsa lies slain, her body dead.
+Now struggles Laun to fight the dark -
+The shadows come, so cold and stark.
+
+Gudriba fell, his powers gave
+To Laun, which now becomes a slave
+To fate his own. He meets his doom:
+Unknown shall soon us all consume.
+
+Tenebrous shadows closer come:
+To others fear, a feast to some.
+Fear not the dark, rely on hope -
+It is the only way to cope
+With what has happened to this land,
+Now tiny speck, once empire grand. 
+
+2017-11-21, Midnight
+Naktigonis
